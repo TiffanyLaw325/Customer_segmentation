@@ -79,7 +79,7 @@
 
 K-Means clustering algorithm is an unsupervised machine learning algorithm that uses multiple iterations to segment the unlabeled data points into K different clusters in a way such that each data point belongs to only a single group that has similar properties.
 
-#Result
+# Result
 
 - "Cluster 0" has 23% customers. It belongs to the "Loyal Customers" segment as they Haven’t purchased for some time, but used to purchase frequently (F=2) and spent a lot. (R=3, F=2, M=2)
 
@@ -89,3 +89,6 @@ K-Means clustering algorithm is an unsupervised machine learning algorithm that 
 
 - "Cluster 3" has 19% customers. It belongs to the "Best Customers" segment which we saw earlier as they purchase recently (R=1), frequent buyers (F=1), and spent the most (M=1). (R=1, F=1, M=1)
 
+# recommendations 
+
+- Please see the attachment "one pager executive summary"
